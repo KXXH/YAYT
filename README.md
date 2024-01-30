@@ -1,4 +1,4 @@
-# Yet Another Yuebao Template
+# YAYT: Yet Another Yuebao Template For 318
 
 一个使用typst编写的318月报模版
 
