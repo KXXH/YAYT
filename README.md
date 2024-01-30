@@ -91,4 +91,8 @@ git clone ...
   ```
   （使用`@`+`cite_key`的形式引用，`cite_key`为参考文献的标识符，可在bib文件中找到）
 
-  
+## 最佳实践
+你可以使用[Typst Web App](https://typst.app)来编辑Typst文件（和Overleaf一样），也可以使用VS Code来编辑Typst文件。本模版已经包含Typst Web App所不具有的宋体字体，但使用本地编译能使用本地的中文字体，所以还是建议使用VS Code来编辑Typst文件。
+### VS Code拓展
+- [Typst LSP](https://marketplace.visualstudio.com/items?itemName=nvarner.typst-lsp)
+- [Typst Preview](https://marketplace.visualstudio.com/items?itemName=mgt19937.typst-preview)：支持实时预览构建效果，比Overleaf还要方便
